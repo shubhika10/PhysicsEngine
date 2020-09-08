@@ -1,2 +1,2 @@
-# PhysicsEngine
-A virtual world with real life properties.
+# staticSquare
+A static square made using Matter.js physics engine
